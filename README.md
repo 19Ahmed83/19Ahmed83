@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @19Ahmed83
 - 👀 I’m interested in programming...
-- 🌱 I’m currently learning ..PASV.
 - 💞️ I’m looking to collaborate on .I want to create interesting projects that will benefit people..
 - 📫 How to reach me ..spb6926@gmail.com.
 
