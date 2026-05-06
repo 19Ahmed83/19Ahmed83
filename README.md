@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @19Ahmed83
-- 👀 I’m interested in programming...
+- 👋 Hi, I’m @19Ahmed83, Python Developer.
+- 👀 I work with Python and continuosly improve my programming skills through practice
+ and small projects.
+- Python programming.
+- Problem solving.
+- Git & Github.
+- continuous learning. 
 
 - 📫 How to reach me ..spb6926@gmail.com.
 
